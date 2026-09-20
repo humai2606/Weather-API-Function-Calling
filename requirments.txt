@@ -1,3 +1,4 @@
+streamilt
 openai
 requests
 python-dotenv
