@@ -1,4 +1,3 @@
 streamilt
-openai
+groq
 requests
-python-dotenv
